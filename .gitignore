@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+tmp/
+*.log
+.idea/
+yarn.lock
+.nyc_output/
+coverage/
+.tmp*
+.vscode
+Thumbs.db
+db.json
+public/
+.deploy*/
+_multiconfig.yml
