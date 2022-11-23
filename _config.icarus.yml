@@ -107,7 +107,7 @@ donates:
         qrcode: ''
 share:
     type: sharethis
-    install_url: ''
+    install_url: 'https://platform-api.sharethis.com/js/sharethis.js#property=637e894011a99d0012452cec&product=inline-share-buttons'
 sidebar:
     left:
         sticky: false
