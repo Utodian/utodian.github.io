@@ -84,27 +84,27 @@ search:
     index_pages: true
 comment:
     type: disqus
-    shortname: ''
-donates:
-    -
-        type: afdian
-        url: ''
-    -
-        type: alipay
-        qrcode: ''
-    -
-        type: buymeacoffee
-        url: ''
-    -
-        type: patreon
-        url: ''
-    -
-        type: paypal
-        business: ''
-        currency_code: USD
-    -
-        type: wechat
-        qrcode: ''
+    shortname: aitist
+#donates:
+#    -
+#        type: afdian
+#        url: ''
+#    -
+#        type: alipay
+#        qrcode: ''
+#    -
+#        type: buymeacoffee
+#        url: ''
+#    -
+#        type: patreon
+#        url: ''
+#    -
+#        type: paypal
+#        business: ''
+#        currency_code: USD
+#    -
+#        type: wechat
+#        qrcode: ''
 share:
     type: sharethis
     install_url: 'https://platform-api.sharethis.com/js/sharethis.js#property=637e894011a99d0012452cec&product=inline-share-buttons'
