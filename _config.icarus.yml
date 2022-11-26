@@ -117,10 +117,10 @@ widgets:
     -
         position: left
         type: profile
-        author: Utodian
-        author_title: Build an AI powered era
+        author: AItist
+        author_title: animate your thoughts
         location: United States
-        avatar: /img/Utodian-logos.jpeg
+        avatar: /img/aitist.jpeg
         avatar_rounded: true
         gravatar: 
         follow_link: https://github.com/utodian
