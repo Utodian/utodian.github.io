@@ -1,8 +1,5 @@
 ---
 title: AItist, an AI-powered Video Maker
-date: 2022-11-24 17:50:02
-tags:
-- Demo
 ---
 
 <!--# An AI-powered Video Maker-->
@@ -25,4 +22,8 @@ One more thing, tired of above texts? Check the video made by AItist based on th
 {% youtube aG02jrV82Fs %}
 
 <!--{% img /gallery/food.jpeg "Food" %}-->
+
+## More demos?
+https://nxkc7zi6j8.larksuite.com/wiki/wikus7Z2f36UCmJBQHv9SB6Zjhb
+
 
